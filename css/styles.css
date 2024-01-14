@@ -50,6 +50,7 @@ color: var(--logocolor);
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--logocolor);
+    margin-bottom: 8px;
 
 }
 .second_paragraph{
@@ -251,4 +252,13 @@ img {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+}
+.second_list {
+    display: flex;
+    gap: 24px;
+
+}
+.second_list_item {
+    width: calc((100% - 72px) / 4);
+
 }
