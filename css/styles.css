@@ -5,7 +5,7 @@
     --addlinkcolor:#434455;
     --buttoncolor:#4D5AE5;
     --sectioncolor:#F4F4FD;
-
+    --bordercolor:#e7e9fc;
 
 
 }
@@ -197,4 +197,12 @@ color: var(--linkcolor);
 }
 img {
     display: block;
+}
+.header {
+    border-bottom:var(--bordercolor);
+
+}
+.container {
+    display: flex;
+    
 }
