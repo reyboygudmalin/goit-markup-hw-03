@@ -237,3 +237,6 @@ img {
     display: flex;
     gap: 40px ;
 }
+.second_section {
+    padding: 120px 0;
+}
