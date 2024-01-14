@@ -28,6 +28,8 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        margin-right:76px ;
+
 
 }
 .link {
@@ -64,6 +66,8 @@ color: var(--logocolor);
     letter-spacing:0.02em;
     color: var(--logocolor);
     font: size 16px;
+    padding: 24px 0;
+
   
 }
 .nav_link:hover,
@@ -199,10 +203,26 @@ img {
     display: block;
 }
 .header {
-    border-bottom:var(--bordercolor);
+    border-bottom:1px solid var(--bordercolor);
 
 }
 .container {
     display: flex;
-    
+    width: 1158px ;
+    padding: 0 15px;
+
+}
+.navigation {
+    display: flex;
+    align-items: center;
+
+}
+.menu {
+    display: flex;
+    gap: 40px;
+
+}
+.contactlist {
+    display: flex;
+    gap: 40px ;
 }
