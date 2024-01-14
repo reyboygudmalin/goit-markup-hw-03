@@ -157,7 +157,7 @@ color: var(--linkcolor);
 .fourth_list_item {
     background-color: var(--white);
     width:calc((100% - 72px) / 4) ;
-    border-radius:(0px 0px 4px 4px) ;
+    border-radius:0px 0px 4px 4px ;
 
 
 
@@ -185,7 +185,7 @@ color: var(--linkcolor);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--addlinkcolor);
-    
+
 }
 .footer {
     background-color: var(--logocolor);
