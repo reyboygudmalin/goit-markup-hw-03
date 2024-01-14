@@ -190,6 +190,7 @@ color: var(--linkcolor);
 }
 .footer {
     background-color: var(--logocolor);
+    padding:100px 0 ;
 
 }
 .footer  span {
