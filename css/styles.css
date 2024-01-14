@@ -9,6 +9,11 @@
 
 
 }
+* {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 100%;
+}
 body {
     font-family: 'Roboto',sans-serif;
     color: #434455;
