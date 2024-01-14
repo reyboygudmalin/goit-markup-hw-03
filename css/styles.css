@@ -201,6 +201,7 @@ color: var(--linkcolor);
     line-height: 1.5;
     color: var(--sectioncolor);
     letter-spacing: 0.02em;
+    max-width:264px ;
 }
 .portfolio_button{
     font-family: "Roboto",
