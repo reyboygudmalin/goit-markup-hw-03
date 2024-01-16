@@ -307,3 +307,13 @@ img {
     display: inline-block;
     margin-bottom: 16px;
 }
+.section_portfolio {
+    padding-top: 96px;
+
+}
+.portfolio_button_list{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    
+}
