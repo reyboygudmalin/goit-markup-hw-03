@@ -314,6 +314,12 @@ img {
     display: inline-block;
     margin-bottom: 16px;
 }
+.footer_link{
+    display: inline-block;
+}
+.footer .container a {
+    display: inline-block;
+}
 .section_portfolio {
     padding-top: 96px;
     padding-bottom: 120px;
