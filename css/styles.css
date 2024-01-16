@@ -309,11 +309,12 @@ img {
 }
 .section_portfolio {
     padding-top: 96px;
+    padding-bottom: 120px;
 
 }
 .portfolio_button_list{
     display: flex;
     justify-content: center;
     gap: 24px;
-    
+
 }
