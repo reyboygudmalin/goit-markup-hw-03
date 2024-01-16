@@ -213,12 +213,18 @@ color: var(--linkcolor);
     color: var(--buttoncolor);
     background-color: var(--sectioncolor);
     cursor: pointer;
+    padding:12px 24px ;
+    border:1px solid var(--bordercolor) ;
+    border-radius: 4px;
+
+
 }
 .portfolio_button:hover,
 .portfolio_button:focus {
     color: var(--white);
     background-color: var(--linkcolor);
-   
+    border: 1px solid transparent;
+ 
 
 }
 .portfolioheader {
@@ -316,5 +322,7 @@ img {
     display: flex;
     justify-content: center;
     gap: 24px;
+    margin-bottom: 72px;
+
 
 }
