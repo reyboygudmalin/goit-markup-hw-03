@@ -312,13 +312,14 @@ img {
 }
 .footer .link{
     display: inline-block;
-    margin-bottom: 16px;
+    
 }
 .footer_link{
     display: inline-block;
 }
 .footer .container a {
     display: inline-block;
+    margin-bottom: 16px;
 }
 .section_portfolio {
     padding-top: 96px;
